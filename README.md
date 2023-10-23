@@ -1,9 +1,14 @@
-<h1 align="center">Hey there 👋</h1>
+
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewhizperer&label=Profile%20views&color=0e75b6&style=flat" alt="codewhizperer" /> </p>
 
 ###
+# Hello👋
+
+I have expertise in smart contracts, specializing in Solidity and Cairo. I also have experience in frontend integration using Next.js. Currently, I'm on a journey to explore the fascinating world of Cryptography and Proving systems like STARKs.
+
+I'm actively seeking new opportunities in the realms of Cryptography, Research, and Smart Contract Development. If you'd like to connect, collaborate, or discuss potential roles, please don't hesitate to reach out to me at [Adegbiteademola1999@gmail.com](mailto: Adegbiteademola1999@gmail.com). Let's create something incredible together!
 
 ###
 
