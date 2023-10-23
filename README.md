@@ -1,3 +1,7 @@
+<h1 align="center">Hey there 👋</h1>
+
+###
+
 <div align="center">
   <img height="150" src="https://im.ezgif.com/tmp/ezgif-1-2b78bd9b49.gif"  />
 </div>
@@ -11,14 +15,7 @@
   <a href="https://twitter.com/codeWhizperer" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="Adegbiteademola1999@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
 </div>
-
-###
-
-<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -26,7 +23,7 @@
 
 ###
 
-<p align="left">👨‍💻 **codeWhizperer - Blockchain Engineer**<br>- 🔗 Currently exploring Starknet Contract and Cairo.<br>- 🔐 Exploring the fascinating world of cryptography and STARKs.<br>- 🌐 Fascinated by distributed systems and actively researching in the field.<br>- 💡 Open to exciting opportunities in the realm of decentralized technologies.<br>- 🌱 Always learning and contributing to open-source projects during my free time.</p>
+<p align="left">👨‍💻 codeWhizperer - Blockchain Engineer<br>- 🔗 Currently exploring Starknet Contract and Cairo.<br>- 🔐 Exploring the fascinating world of cryptography and STARKs.<br>- 🌐 Fascinated by distributed systems and actively researching in the field.<br>- 💡 Open to exciting opportunities in the realm of decentralized technologies.<br>- 🌱 Always learning and contributing to open-source projects during my free time.<br>📧 - Reach out to me via email: Adegbiteademola1999@gmail.com</p>
 
 ###
 
