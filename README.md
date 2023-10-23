@@ -8,7 +8,7 @@
 
 I have expertise in smart contracts, specializing in Solidity and Cairo. I also have experience in frontend integration using Next.js. Currently, I'm on a journey to explore the fascinating world of Cryptography and Proving systems like STARKs.
 
-I'm actively seeking new opportunities in the realms of Cryptography, Research, and Smart Contract Development. If you'd like to connect, collaborate, or discuss potential roles, please don't hesitate to reach out to me via [email](Adegbiteademola1999@gmail.com). Let's create something incredible together!
+I'm actively seeking new opportunities in the realms of Cryptography, Research, and Smart Contract Development. If you'd like to connect, collaborate, or discuss potential roles, please don't hesitate to reach out to me via [Adegbiteademola1999@gmail.com](mailto: Adegbiteademola1999@gmail.com) Let's create something incredible together!
 
 ###
 
