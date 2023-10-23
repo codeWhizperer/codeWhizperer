@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">👨‍💻 codeWhizperer - Blockchain Engineer<br>- 🔗 Currently exploring Starknet Contract and Cairo.<br>- 🔐 Exploring the fascinating world of cryptography and STARKs.<br>- 🌐 Fascinated by distributed systems and actively researching in the field.<br>- 💡 Open to exciting opportunities in the realm of decentralized technologies.<br>- 🌱 Always learning and contributing to open-source projects during my free time.<br>📧 - Reach out to me via email: Adegbiteademola1999@gmail.com</p>
+<p align="left">👨‍💻 codeWhizperer - Blockchain Engineer<br>- 🔗 Currently exploring Starknet Contract and Cairo.<br> 🔐 Exploring the fascinating world of cryptography and STARKs.<br>- 🌐 Fascinated by distributed systems and actively researching in the field.<br> 💡 Open to exciting opportunities in the realm of decentralized technologies.<br> 🌱 Always learning and contributing to open-source projects during my free time.<br>📧  Reach out to me via email: Adegbiteademola1999@gmail.com</p>
 
 ###
 
@@ -51,6 +51,11 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewhizperer&show_icons=true&locale=en&layout=compact" alt="codewhizperer" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewhizperer&show_icons=true&locale=en" alt="codewhizperer" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewhizperer&" alt="codewhizperer" /></p>
 
 ###
