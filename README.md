@@ -10,13 +10,7 @@ I have expertise in smart contracts, specializing in Solidity and Cairo. I also 
 
 I'm actively seeking new opportunities in the realms of Cryptography, Research, and Smart Contract Development. If you'd like to connect, collaborate, or discuss potential roles, please don't hesitate to reach out to me via [email](mailto: Adegbiteademola1999@gmail.com) Let's create something incredible together!
 
-###
 
-<div align="center">
-  <img height="150" src="https://im.ezgif.com/tmp/ezgif-1-2b78bd9b49.gif"  />
-</div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/adegbite-kelvin-ademola-a986b6139/" target="_blank">
