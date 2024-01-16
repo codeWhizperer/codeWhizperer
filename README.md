@@ -3,15 +3,6 @@
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewhizperer&label=Profile%20views&color=0e75b6&style=flat" alt="codewhizperer" /> </p>
 
-###
-# Hello👋
-
-I have expertise in smart contracts, specializing in Solidity and Cairo. I also have experience in frontend integration using Next.js. Currently, I'm on a journey to explore the fascinating world of Cryptography and Proving systems like STARKs.
-
-I'm actively seeking new opportunities in the realms of Cryptography, Research, and Smart Contract Development. If you'd like to connect, collaborate, or discuss potential roles, please don't hesitate to reach out to me via [email](mailto: Adegbiteademola1999@gmail.com) Let's create something incredible together!
-
-
-
 <div align="center">
   <a href="https://www.linkedin.com/in/adegbite-kelvin-ademola-a986b6139/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -22,8 +13,6 @@ I'm actively seeking new opportunities in the realms of Cryptography, Research, 
 </div>
 
 ###
-
-<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
