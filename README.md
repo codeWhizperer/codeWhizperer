@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">👨‍💻 codeWhizperer - Blockchain Engineer<br> 🔗 Currently exploring Starknet Contract and Cairo.<br> 🔐 Exploring the fascinating world of cryptography and STARKs.<br> 🌐 Fascinated by distributed systems and actively researching in the field.<br> 💡 Open to exciting opportunities in the realm of decentralized technologies.<br> 🌱 Always learning and contributing to open-source projects during my free time.<br>📧  Reach out to me via email: Adegbiteademola1999@gmail.com</p>
+<p align="left">👨‍💻 codeWhizperer - Blockchain Engineer<br> 🔗 Currently exploring Starknet Contract and Cairo.  Reach out to me via email: Adegbiteademola1999@gmail.com</p>
 
 ###
 
