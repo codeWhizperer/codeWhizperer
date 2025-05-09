@@ -56,7 +56,7 @@
   The frontend interface for Coloniz — a decentralized, SEO-friendly community-building platform.
 
 - [Starknet Tokenbound Account](https://www.tbaexplorer.com/)  
-  Tokenbound Account Explorer to help manage and deploy Tokenbound accounts on StarkNet.
+  Tokenbound Account Explorer to help manage and deploy Tokenbound accounts on Starknet.
 
   
 
