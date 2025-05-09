@@ -42,7 +42,15 @@
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
 </div>
 
-###
+
+### 📌 Projects
+
+ [ SNIP-14](https://github.com/horuslabsio/SNIPs/blob/main/SNIPS/snip-14.md) 
+ [ Coloniz UI](https://coloniz.xyz) 
+ [ Starknet Tokenbound Account](https://www.tbaexplorer.com/)
+  [ Coloniz core](https://github.com/horuslabsio/coloniz-core)
+  
+ 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewhizperer&show_icons=true&locale=en&layout=compact" alt="codewhizperer" /></p>
