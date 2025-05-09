@@ -43,16 +43,19 @@
 </div>
 
 
+
 ### 📌 Projects
 
- [ SNIP-14](https://github.com/horuslabsio/SNIPs/blob/main/SNIPS/snip-14.md) 
- [ Coloniz UI](https://coloniz.xyz) 
- [ Starknet Tokenbound Account](https://www.tbaexplorer.com/)
-  [ Coloniz core](https://github.com/horuslabsio/coloniz-core)
+- [SNIP-14](https://github.com/horuslabsio/SNIPs/blob/main/SNIPS/snip-14.md)  
+  A proposal for a Starknet Improvement Protocol defining a system that assigns a starknet account to all non-fungible tokens (ERC-721). These tokenbound accounts allow NFTs to own assets and interact with applications.
+
+- [Coloniz UI](https://coloniz.xyz)  
+  The frontend interface for Coloniz — a decentralized, SEO-friendly community-building platform.
+
+- [Starknet Tokenbound Account](https://www.tbaexplorer.com/)  
+  Tokenbound Account Explorer to help manage and deploy Tokenbound accounts on StarkNet.
+
+- [Coloniz Core](https://github.com/horuslabsio/coloniz-core)  
+Smart contracts that power coloniz 
   
- 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewhizperer&show_icons=true&locale=en&layout=compact" alt="codewhizperer" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewhizperer&show_icons=true&locale=en" alt="codewhizperer" /></p>
