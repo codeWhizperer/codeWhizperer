@@ -49,7 +49,7 @@
 - [SNIP-14](https://github.com/horuslabsio/SNIPs/blob/main/SNIPS/snip-14.md)  
   A proposal for a Starknet Improvement Protocol defining a system that assigns a starknet account to all non-fungible tokens (ERC-721). These tokenbound accounts allow NFTs to own assets and interact with applications.
 
-  - [Coloniz Core](https://github.com/horuslabsio/coloniz-core)  
+- [Coloniz Core](https://github.com/horuslabsio/coloniz-core)  
     Smart contracts that power coloniz 
 
 - [Coloniz UI](https://coloniz.xyz)  
